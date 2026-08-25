@@ -1,1 +1,115 @@
+Data Engineer — Skills & Tools:
 
+1-Programming & Fundamentals
+  Python
+  SQL
+  Bash / Linux
+  Git / GitHub
+  Data Structures & Algorithms
+  OOP
+
+2-Databases
+  SQL Server
+  PostgreSQL
+  MySQL
+  Oracle
+  MongoDB
+  Database Design
+  Data Modeling
+  Indexing
+  Query Optimization
+
+3-ETL / Data Integration
+  SSIS — Traditional ETL
+  Informatica — Enterprise Data Integration
+  Azure Data Factory — Cloud ETL/ELT
+  Microsoft Fabric Data Factory
+  dbt
+  Fivetran
+
+4-Big Data & Distributed Processing
+  Apache Hadoop
+  Apache Spark
+  PySpark
+  Spark SQL
+  Apache Kafka
+  Apache Flink
+
+5-Databricks
+  Databricks
+  Delta Lake
+  Unity Catalog
+  Databricks Workflows
+  Auto Loader
+  Delta Live Tables / Lakeflow
+  Databricks SQL
+  MLflow
+
+6-Microsoft Fabric
+  Microsoft Fabric
+  OneLake
+  Lakehouse
+  Warehouse
+  Data Factory
+  Dataflows Gen2
+  Notebooks
+  Spark
+  SQL Analytics Endpoint
+  Direct Lake
+  Real-Time Intelligence
+  Eventhouse
+  KQL
+
+7-Data Quality & Data Integrity
+  Data Validation
+  Data Profiling
+  Data Cleaning
+  Data Quality
+  Data Governance
+  Data Lineage
+  Data Catalog
+  Data Contracts
+  Metadata Management
+  Great Expectations
+  Soda
+  dbt Tests
+  Unity Catalog
+  Informatica Data Quality
+
+8-Orchestration
+  Apache Airflow
+  Azure Data Factory
+  Fabric Data Factory
+  Databricks Workflows
+  Prefect
+  Dagster
+
+9-Cloud
+  Microsoft Azure
+  AWS
+  Google Cloud
+
+10-Azure Data Tools
+  Azure Data Factory
+  Azure Databricks
+  Azure Synapse Analytics
+  Azure SQL
+  Azure Storage
+  Azure Functions
+  Microsoft Fabric
+
+11-DevOps / Deployment
+  Docker
+  Docker Compose
+  Kubernetes
+  GitHub Actions
+  Azure DevOps
+  Terraform
+  CI/CD
+
+12-Monitoring
+  Azure Monitor
+  Databricks Monitoring
+  Airflow Monitoring
+  Data Quality Monitoring
+  Pipeline Monitoring
