@@ -1,0 +1,29 @@
+SQL & Relational DB
+        ↓
+Data Warehouse Fundamentals
+        ↓
+OLTP vs OLAP
+        ↓
+Data Warehouse Architecture
+        ↓
+Dimensional Modeling
+        ↓
+Fact & Dimension Tables
+        ↓
+Star Schema / Snowflake Schema
+        ↓
+Grain + Keys + Relationships
+        ↓
+Slowly Changing Dimensions
+        ↓
+ETL / ELT
+        ↓
+Incremental Loading
+        ↓
+Data Quality + Validation
+        ↓
+Performance Optimization
+        ↓
+Cloud Data Warehouse
+        ↓
+Real Data Engineering Project
